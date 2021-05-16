@@ -65,7 +65,7 @@ yarn lint
 yarn lint:watch
 ```
 
-## API Reference
+API Reference
 
 For a deeper understanding of expossed API services please check [swagger.yaml](swagger.yaml) at project root folder.
 
