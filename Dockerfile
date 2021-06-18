@@ -1,6 +1,5 @@
 # Use latest node version 8.x
-FROM node:8.10.0
-
+FROM node:12-alpine
 MAINTAINER Leonardo Otero <oteroleonardo@gmail.com>
 
 # create app directory in container
